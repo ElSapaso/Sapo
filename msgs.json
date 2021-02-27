@@ -95,4 +95,7 @@
     "xsalvax": {
         "message": "!ip 75.119.136.181"
     },
+    "canario": {
+        "message": "!ip 85.155.31.13"
+    },
 }
