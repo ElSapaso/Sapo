@@ -1,6 +1,6 @@
 {
-    "MANOL0" : 
-        "mensaje": "!ip 2.138.47.19"
+    "MANOL0": {
+        "message": "!ip 2.138.47.19"
     },
     "pito": {
         "message": "!ip 152.228.203.238"
@@ -112,8 +112,5 @@
     },
     "davgarbla": {
         "message": "!ip 2a01:4f8:172:3427::2"
-    },
-    "aa": {
-        "message": "!ip 2.138.47.19"
     },
 }
